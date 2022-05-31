@@ -7,6 +7,7 @@ Your task is to develop a command-line tool that processes a stream of events an
 a summary of the event data. You may implement the tool using your choice of:
 
 * Go
+* Rust
 * Python
 * JavaScript/TypeScript
 
@@ -86,5 +87,5 @@ Olivia: d9392a98.tiff, f796f432.tiff
 Sophie: ccd803fd.tiff
 ```
 
-This functionality may be implemented using your choice of **Go**, **Python**, or **JavaScript/TypeScript**, and may use external
+This functionality may be implemented using your choice of **Go**, **Rust**, **Python**, or **JavaScript/TypeScript**, and may use external
 open-source libraries if desired.
