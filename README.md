@@ -6,7 +6,6 @@ https://jobs.lever.co/harrison/4f10d488-9417-4128-bc5c-846d75304dae) at [frankli
 Your task is to develop a command-line tool that processes a stream of events and outputs
 a summary of the event data. You may implement the tool using your choice of:
 
-* Go
 * Rust
 * Python
 * JavaScript/TypeScript
