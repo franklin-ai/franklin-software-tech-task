@@ -86,5 +86,5 @@ Olivia: d9392a98.tiff, f796f432.tiff
 Sophie: ccd803fd.tiff
 ```
 
-This functionality may be implemented using your choice of **Go**, **Rust**, **Python**, or **JavaScript/TypeScript**, and may use external
+This functionality may be implemented using your choice of **Python**, **Rust** or **JavaScript/TypeScript** and may use external
 open-source libraries if desired.
