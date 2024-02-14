@@ -20,7 +20,7 @@ potential future enhancements and refactorings.
 
 You should take a copy of this repo, implement the requirements described below, and push them to GitHub
 for discussion in the scheduled technical interview. You're welcome to use a private repository, as
-long as it is visible to `@doc-E-brown`, `@rickfoxcroft`, `@rfk` and `@timleslie`.
+long as it is visible to `@boods`, `@doc-E-brown`, and `@jayvdb`.
 
 You will be given the email address of a member of the team, and should email this person with a link to your
 solution at least 24 hours before the scheduled technical interview. You're also encouraged to email them with
